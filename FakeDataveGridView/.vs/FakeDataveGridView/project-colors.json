@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3a4e90d-1027-4b1f-9394-038cb2f57cf2": {
+      "ProjectGuid": "b3a4e90d-1027-4b1f-9394-038cb2f57cf2",
+      "DisplayName": "FakeDataveGridView",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
