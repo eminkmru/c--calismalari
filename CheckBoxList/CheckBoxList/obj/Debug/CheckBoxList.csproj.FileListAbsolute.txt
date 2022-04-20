@@ -1,0 +1,11 @@
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\bin\Debug\CheckBoxList.exe.config
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\bin\Debug\CheckBoxList.exe
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\bin\Debug\CheckBoxList.pdb
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\obj\Debug\CheckBoxList.csproj.AssemblyReference.cache
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\obj\Debug\CheckBoxList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\obj\Debug\CheckBoxList.Form1.resources
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\obj\Debug\CheckBoxList.Properties.Resources.resources
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\obj\Debug\CheckBoxList.csproj.GenerateResource.cache
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\obj\Debug\CheckBoxList.csproj.CoreCompileInputs.cache
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\obj\Debug\CheckBoxList.exe
+C:\Users\Emin\source\repos\WindowsForm\CheckBoxList\CheckBoxList\obj\Debug\CheckBoxList.pdb
