@@ -1,0 +1,14 @@
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\bin\Debug\Deneme.exe.config
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\bin\Debug\Deneme.exe
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\bin\Debug\Deneme.pdb
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.csproj.AssemblyReference.cache
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.Form1.resources
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.Properties.Resources.resources
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.csproj.GenerateResource.cache
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.csproj.CoreCompileInputs.cache
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.exe
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.pdb
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.Kayit.resources
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.KayitGoruntule.resources
+C:\Users\Emin\source\repos\WindowsForm\Deneme\Deneme\obj\Debug\Deneme.CiftTiklamaKayitGoruntule.resources
